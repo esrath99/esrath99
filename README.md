@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science.
--->
+
 
 ## Tech Stack:
 
