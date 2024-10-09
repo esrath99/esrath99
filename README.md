@@ -25,6 +25,7 @@
 ![Weka](https://img.shields.io/badge/Weka-000000?style=for-the-badge&logo=weka&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=esrath99&color=blue)
 
 ## GitHub Stats:
