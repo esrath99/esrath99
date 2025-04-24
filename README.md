@@ -25,7 +25,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![XAI](https://img.shields.io/badge/XAI-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Explainable AI (XAI)](https://img.shields.io/badge/XAI-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
 
 
