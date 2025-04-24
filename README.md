@@ -1,9 +1,5 @@
 ## Hi there, I am Esrath Kanon 👋
 
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Machine Learning, Deep Learning, Data Science.
-
-
 ## Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
